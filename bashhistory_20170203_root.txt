@@ -1,0 +1,47 @@
+source /usr/local/src/tic/tic_tools/other/unix/tic_clone.sh
+cd /usr/local/src/tic/tic_tools/
+source ./other/unix/tic_clone.sh 
+cd /mnt/c/Users/KC/
+cd ..
+ls
+rmdir tic_tools/
+rm tic_tools/
+rm ./tic_tools/*.*
+rmdir tic_tools/
+rm ./tic_tools/*
+rmdir tic_tools/
+ls ./tic_tools/ -l
+ls ./tic_tools/other/ -l
+rmdir tic_tools/ -a
+rmdir --help
+man rmdir
+rmdir ./tic_tools/other/unix/ -p
+remove tic_tools/
+man remove
+remove ./tic_tools/
+remove( ./tic_tools/)
+remove(./tic_tools/)
+remove(tic_tools)
+remove(tic_tools/)
+remove-tic_tool
+remove-tic_tools
+remove -h
+remove --help
+cd -
+cd /usr/local/src/tic/
+ls
+git clone https://github.com/bkraft4257/tic_tools
+ls ./tic_tools/other/unix/ -l
+/mnt/c
+ls /mnt/
+source ./tic_tools/other/unix/tic_clone.sh
+cd /root/
+ls
+ls -a
+mv .tic /home/brain/
+ls-a /home/brain/
+ls -a /home/brain/
+ls -a
+mv tic_* /home/brain/
+ls -a
+ls -a /home/brain/

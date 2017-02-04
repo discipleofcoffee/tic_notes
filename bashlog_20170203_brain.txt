@@ -1,0 +1,168 @@
+ls
+make pycharm-community-2016.3.2.tar.gz 
+sudo
+group
+groups
+tar
+tar -h
+tar --help
+gz
+untar --help
+mv
+sudo mv /home/brain/Downloads/pycharm-community-2016.3.2.tar.gz /usr/local/bin/
+cd /usr/local/bin
+ls
+sudo unzip
+sudo unzip pycharm-community-2016.3.2.tar,gz
+man unzip
+tar -vxzf pycharm-community-2016.3.2.tar.gz 
+sudo tar -vxzf pycharm-community-2016.3.2.tar.gz 
+man path
+man pathvar
+oath
+path
+help path
+info path
+man -k path
+man environment
+man -k environment
+man -k environment variable
+man -k "environment variable"
+./pycharm.sh
+ls
+less PATH
+PATH
+echo $PATH
+cd
+cd -
+cd pycharm-community-2016.3.2/bin/
+~
+PATH=$PATH:.[B
+echo $PATH
+ls
+./pycharm.sh
+cd /usr/local
+ls
+cd bin
+ls
+cd ..
+cd src
+wget https://github.com/stnava/ANTs.git
+sudo wget https://github.com/stnava/ANTs.git
+ls
+cd ANTs.git
+git
+mkdir ANTs
+sudo mkdir ANTs
+cd ANTs
+ls
+sudo git clone https://github.com/stnava/ANTs.git
+man make
+man cmake
+ls
+sudo mv ./ANTs /usr/local/src/ANTs2
+ls
+cd ..
+ls
+sudo rm ANTs
+sudo rm ./ANTs
+man del directory
+man remove
+sudo remove ./ANTs
+man remove
+sudo rmdir ./ANTs
+ls
+sudo rm ANTs.git
+ls
+sudo mv ANTs2 ANTs
+ls
+make ANTs
+cd ANTs
+ls
+cd cmake
+make
+cmake
+less cmake
+ls -l
+less README.txt 
+cd..
+cd ..
+cd bin
+ls
+cd ..
+ls
+cd src
+ls
+sudo mkdir tic
+cd tic
+sudo git clone https://github.com/bkraft4257/tic_tools
+cd tic_tools/
+ls
+cd other/unix/
+ls
+./tic_clone.sh
+sudo ./tic_clone.sh
+sudo tic_clone.sh
+cd ..
+source ./tic_tools/other/unix/tic_clone.sh 
+sudo source ./tic_tools/other/unix/tic_clone.sh 
+sudo-su  source ./tic_tools/other/unix/tic_clone.sh 
+sudo -su
+sudo -u
+man source
+halp source
+help source
+sudo -i
+cd /usr/local/src/ANTs
+ls -l
+cd ..
+cvs -d :pserver:anoncvs@www.itk.org:/cvsroot/Insight co Insight
+cmake ANTs
+ccmake ANTs
+apt-get install cmake
+apt-get cmake
+sudo apt-get update
+apt -cache search --names-only '*cmake*'
+apt -cache search --names-only 'cmake*'
+apt -cache search --names-only 'cmake'
+mv /home/brain/Downloads/cmake-3.7.2-Linux-x86_64.sh /usr/local/src
+sudo mv /home/brain/Downloads/cmake-3.7.2-Linux-x86_64.sh /usr/local/src
+ls
+run cmake-3.7.2-Linux-x86_64.sh 
+./cmake-3.7.2-Linux-x86_64.sh 
+sudo ./cmake-3.7.2-Linux-x86_64.sh 
+./bootstarp --help
+./bootstrap --help
+bootstrap [B
+wget -O- http://neuro.debian.net/lists/jessie.us-nh.full | sudo tee /etc/apt/sources.list.d/neurodebian.sources.list
+sudo apt-key adv --recv-keys --keyserver hkp://pgp.mit.edu:80 0xA5D32F012649A5A9
+sudo apt-get update
+sudo apt-get install ants
+cd /usr/local/src/tic/
+ls
+cd tic_tools/
+ls
+less requirements.txt 
+less READMD.rst 
+less setup.py 
+cd other
+cd unix
+ls
+cd /usr/local/src/tic/
+ls
+rm -r tic_tools/
+rm -rf tic_tools/
+sudo rm -rf tic_tools/
+ls
+sudo -i
+echo $PATH
+$HOME
+cd $HOME
+ls
+ls -a
+ls
+ls -a
+cd /usr/local/src/tic/
+ls
+sudo mv tic_* /usr/local/src/tic/
+ls -a /usr/local/src/tic/

@@ -1,0 +1,23 @@
+Create a parent directory to store  all the files related to TIC. To make this in your home folder and give it the name 'tic', type:
+
+>>mkdir $HOME/tic
+
+Here, $HOME is an easier way to reach the home folder of the current user, which is at /home/<current_user_name>/.
+In neurodebian virtual machine, this <user_name> by default is 'brain'.
+
+Navigate into this folder.
+>>cd $HOME/tic
+
+Next we will use git to clone (i.e. download a copy or clone) of the files which hold the instructions (source code) for tic to work. These instructions are stored online at a particular space which has a specific web address, just like websites. The structure or space which holds the source code is called a repository, repo for short.
+the way tic has been designed, we do this by downloading the repo 'tic_tools' and activate a file which holds a prewritten set of instructions to download the rest of the files without the user having to type each command one by one. The instructions are followed to the letter and cannot be modified while they are activly doing what they are supposed to. Such a file is called a 'script', also called a 'shell script'. Why 'shell'? Later.
+
+We will use git to clone tic_tools on to this computer.
+
+>>git clone https://github.com/bkraft4257/tic_tools
+
+finally, type
+>>$HOME/tic/tic_tools/other/unix/tic_clone.sh
+
+
+
+Create a directory, label it 'tic'
